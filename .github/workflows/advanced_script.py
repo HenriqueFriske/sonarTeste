@@ -10,7 +10,7 @@ def greet(name):
     return f"Hello, {name}!"
 
 def add(a, b):
-    try:
+    try:dd
         result = a + b
         logging.info(f"Addition result: {result}")
         return result
